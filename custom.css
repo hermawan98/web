@@ -1,0 +1,57 @@
+/*Membuat CSS pada halaman utama Website*/
+/*Menghias body website*/
+.body	{
+	background: #000;
+	font: 12px arial;
+}
+/*Menghias class container*/
+.container	{
+	width: 960px;
+	margin: auto;
+	padding: 6px;
+	background: rgba(23, 38, 089, 0.5);
+}
+/*Menghias bagian header */
+.header		{
+	background: url('images/pamsimas.png')no-repeat;
+	height: 170px;
+}
+/*Menghias bagian menu*/
+.menu		{
+	background: #172659;
+	height: 35px;
+}
+.menu ul {
+	margin: 0;
+	padding: 0;
+}
+.menu ul li {
+	float: left;
+	list-style: none;
+}
+.menu ul li a{
+	display: block;
+	padding: 10px 15px ;
+	text-decoration: none;
+	color: #ddd;
+}
+.menu ul li:hover{
+	background: #40569e;
+}
+/*Menghias content website*/
+.content	{
+	background: #fff;
+	min-height: 400px;
+	overflow: hidden;
+}
+/*Menghias footer*/
+.footer		{
+	background: #364a88;
+	height: 50px;
+}
+.footer p{
+	color: #ccc;
+	margin: 0;
+	padding-top: 15px;
+	text-align: center;
+}

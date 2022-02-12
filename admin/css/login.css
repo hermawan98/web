@@ -1,0 +1,23 @@
+body{
+	background: #000;
+	font: 12px arial;
+}
+
+.container{
+	width: 300px;
+	margin: 200 auto;
+	background: #172659;
+	border: 1px;
+	color: #fff;
+	padding: 15px;
+}
+h3{
+	border-bottom: 1px dotted #fff;
+	padding: 5px 10px;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+td{
+	color: #fff;
+	padding: 5px 10px;
+}
