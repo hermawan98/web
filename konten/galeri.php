@@ -1,1 +1,1 @@
-galeri
+ini untuk menampilkan galeri 
